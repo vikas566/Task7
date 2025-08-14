@@ -15,11 +15,6 @@ This is a simple HTML, CSS, and JavaScript project that fetches user data from a
 - `script.js` — JavaScript logic to fetch and display data.
 - `README.md` — Project documentation.
 
-## How to Use
-1. Extract the ZIP file.
-2. Open `index.html` in your browser.
-3. Click **Reload Data** to fetch the latest users.
-4. Test error handling by disconnecting from the internet and reloading.
+ 
 
-## License
-This project is free to use for educational purposes.
+
